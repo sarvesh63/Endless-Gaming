@@ -1,0 +1,27 @@
+body{
+background-image:url('gaming.jpg');
+background-size:cover;
+background-attachment:fixed;
+}
+.nav{
+	height:60px;
+	background-color:black;
+}
+.nav h1{
+	display: inline-block;
+	position: absolute;
+	left:0;
+	color:#E7EBEE;
+	padding-bottom: 15px;
+}
+.nav ul{
+	position:absolute;
+	right:5px;
+}
+.nav ul li{
+	display: inline-block;
+}
+.nav ul li a{
+	color:#E7EBEE;
+	padding:5px;
+}
